@@ -1,0 +1,2 @@
+# PatikaDev-SQL
+SQL exercises
